@@ -1,0 +1,9 @@
+{
+  "name": "package-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  }
+}

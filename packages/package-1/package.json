@@ -1,0 +1,9 @@
+{
+  "name": "package-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "package-2": "^1.0.0"
+  }
+}
